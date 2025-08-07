@@ -1,0 +1,11 @@
+In this project, I analyzed inventory data from Zepto, a quick-commerce platform known for delivering groceries in minutes. The goal was to dive into the raw data using SQL Workbench, clean it up, and uncover insights that could help a business make smarter decisions—like which products are running out of stock, which categories generate the most revenue, and where discounts are being used effectively.
+
+Working with the dataset felt like looking behind the scenes of a digital storefront. I encountered real challenges like missing values, inconsistent pricing, and products with zero price tags. Step by step, I cleaned the data, added meaningful columns, and ran a series of SQL queries to answer questions any retailer might ask, such as:
+
+Which items give the best bang for your buck?
+
+What’s driving the most revenue?
+
+Are we missing out by not stocking high-demand products?
+
+Through this process, I learned how raw product data can tell powerful stories—from identifying top-performing categories to spotting opportunities to improve pricing strategies or restocking decisions. This project showcases how SQL isn't just about databases—it's a tool for driving business value through data.
